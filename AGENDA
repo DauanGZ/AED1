@@ -61,7 +61,7 @@ int main(){
                 break;}
 
             case 2: // apagar();
-                printf("|\n----- APAGAR ---\n");
+                /*printf("|\n----- APAGAR ---\n");
                 if(*contadorPessoas== 0){
                     printf("\n* Agenda vazia!\n\n");
                 }
@@ -78,7 +78,7 @@ int main(){
                         }
                         pessoa= (pessoa+1);
                     }
-                }
+                */}
                 break;
 
             case 3: // buscar();
